@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "MyProject"
+name = "integratune"
 version = "0.1.0"
 description = ""
-authors = ["Jane Doe <jane_doe@some_email.com>"]
+authors = ["Mikhael Manurung <mikhael.manurung@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"

@@ -1,4 +1,4 @@
-from myproject import __version__
+from integratune import __version__
 
 
 def test_version():
